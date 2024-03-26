@@ -1,0 +1,8 @@
+GET http://localhost:9000/day
+Accept: application/json
+
+###
+GET https://api.openf1.org/v1/pit?session_key=9158&pit_duration<31
+Accept: application/json
+
+###
